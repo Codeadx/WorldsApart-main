@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6493f2b464c7f6e4880b92708d997426
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - axisHandlesPrefab: {fileID: 5473970459627513466, guid: 9c25e59da9ab58f49970e6fea60a8bfc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
